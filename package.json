@@ -1,0 +1,10 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2"
+  },
+  "scripts": {}
+}
