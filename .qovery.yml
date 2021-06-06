@@ -1,0 +1,11 @@
+---
+application:
+  name: "covin-fetch-1"
+  project: "covin-fetch-1"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-covin-fetch-1"
+  routes:
+  - application_name: "covin-fetch-1"
+    paths:
+    - "/*"
